@@ -1,0 +1,7 @@
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\CamasirMakinesi\CamasirMakinesi\bin\Debug\CamasirMakinesi.exe.config
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\CamasirMakinesi\CamasirMakinesi\bin\Debug\CamasirMakinesi.exe
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\CamasirMakinesi\CamasirMakinesi\bin\Debug\CamasirMakinesi.pdb
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\CamasirMakinesi\CamasirMakinesi\obj\Debug\CamasirMakinesi.csproj.AssemblyReference.cache
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\CamasirMakinesi\CamasirMakinesi\obj\Debug\CamasirMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\CamasirMakinesi\CamasirMakinesi\obj\Debug\CamasirMakinesi.exe
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\CamasirMakinesi\CamasirMakinesi\obj\Debug\CamasirMakinesi.pdb
